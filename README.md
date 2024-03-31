@@ -32,7 +32,7 @@ I'm currently navigating the exciting world of computer science at Siddaganga In
 
 ## Reach Me Out
 - 🐦 **Twitter:** Follow me on [Twitter](https://twitter.com/DHANUSH19598901) for coding jokes, tech updates, and occasional ramblings.
-- 📸 **Instagram:** Connect with me on [Instagram](https://www.instagram.com/yourusername) for glimpses of my coding adventures and outdoor escapades.
+- 📸 **Instagram:** Connect with me on [Instagram](https://www.instagram.com/dhanush3017f) for glimpses of my coding adventures and outdoor escapades.
 - 📧 **Email:** Drop me an email at [dhanushu834@gmail.com](mailto:dhanushu834@gmail.com) for any inquiries, collaborations, or just to say hello!
 - 🔗 **LinkedIn:** Let's connect on [LinkedIn](https://linkedin.com/in/dhanush-u-003028259/) to explore professional opportunities, share insights, and network in the tech industry.
 
