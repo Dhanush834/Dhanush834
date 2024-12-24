@@ -41,9 +41,6 @@ I'm currently navigating the exciting world of computer science at Siddaganga In
 [![](https://visitcount.itsvg.in/api?id=Dhanush834&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/Dhanush834">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush834&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Dhanush834">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush834&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 <!---
